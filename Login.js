@@ -1,6 +1,8 @@
 import React from 'react';
 import {View, Text, StyleSheet, TextInput, TouchableOpacity} from 'react-native';
 
+
+//Working on screen gentures and effects/feedback; such as highlighting for the user.
 const User_Data = () => {
   return (
     <View style={styles.container}>
